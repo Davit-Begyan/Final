@@ -4,7 +4,7 @@
   "description": "This is code example of Tumos project GameOfLife with server side programming.",
   "main": "p5.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "socket.io": "^2.2.0"
   },
   "devDependencies": {},
